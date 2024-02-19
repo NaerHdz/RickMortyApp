@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Image, Text, StyleSheet, PixelRatio} from 'react-native';
+import {View, Image, Text, StyleSheet} from 'react-native';
 import {Character} from '../types/types';
 
 type Props = {
