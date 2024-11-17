@@ -6,7 +6,7 @@ type Props = {
   characters: Character;
 };
 
-export default function CardCharacter(props: Props) {
+export default function CardCharacter(props: Props): JSX.Element {
   return (
     <View
       style={{
